@@ -1,0 +1,42 @@
+[
+    {
+        "Model":"RetinaNet (Reference)",
+        "Best Epoch":38,
+        "mAP":0.0933,
+        "mAP50":0.1801,
+        "mAP_S":0.0612,
+        "mAP_M":0.1632,
+        "mAP_L":0.1762,
+        "Min Loss":0.6412
+    },
+    {
+        "Model":"RetinaNet (Custom)",
+        "Best Epoch":31,
+        "mAP":0.0578,
+        "mAP50":0.1247,
+        "mAP_S":0.0441,
+        "mAP_M":0.0925,
+        "mAP_L":0.061,
+        "Min Loss":0.398
+    },
+    {
+        "Model":"Faster R-CNN (Reference)",
+        "Best Epoch":39,
+        "mAP":0.1945,
+        "mAP50":0.3497,
+        "mAP_S":0.1405,
+        "mAP_M":0.3001,
+        "mAP_L":0.3582,
+        "Min Loss":0.7928
+    },
+    {
+        "Model":"Faster R-CNN (Custom)",
+        "Best Epoch":39,
+        "mAP":0.1827,
+        "mAP50":0.3368,
+        "mAP_S":0.1289,
+        "mAP_M":0.2813,
+        "mAP_L":0.3826,
+        "Min Loss":0.537
+    }
+]

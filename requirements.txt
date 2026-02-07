@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+albumentations>=1.3.0
+opencv-python-headless
+matplotlib
+seaborn
+pandas
+numpy
+tqdm
+gdown
+scikit-learn
+torchmetrics
